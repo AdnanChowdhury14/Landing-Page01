@@ -3,7 +3,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 .header-bg {
-  background-image: url(../Assets/Hero-bg.png);
+  background-image: url(./Assets/Hero-bg.png);
 }
 .title {
   color: #252432;
