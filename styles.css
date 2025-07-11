@@ -1,0 +1,52 @@
+.header-bg {
+  background-image: url(../Assets/Hero-bg.png);
+}
+.title {
+  color: #252432;
+  font-weight: bold;
+  font-size: 65px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 150px;
+}
+.nav-title {
+  font-size: 34px;
+  font-weight: bold;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+/* .banner-content {
+  justify-content: center;
+  margin-top: 100px;
+  padding: 50px;
+} */
+
+.banner-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+/* shared style */
+.btn {
+  background-color: #4e47ff;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+}
+.banner-btn {
+  margin: 0 auto;
+}
