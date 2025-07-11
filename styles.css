@@ -141,3 +141,21 @@ body {
   font-size: 18px;
   width: 100%;
 }
+
+/* footer styles */
+.foot {
+  align-items: center;
+  text-align: center;
+  padding: 150px 455px;
+}
+.links {
+  margin-top: 20px;
+  justify-content: space-around;
+  gap: 14px;
+}
+
+.footer-title {
+  color: #4e47ff;
+  font-size: 100px;
+  font-weight: bold;
+}
